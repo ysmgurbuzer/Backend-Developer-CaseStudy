@@ -1,0 +1,14 @@
+C:\Users\ysmgu\source\repos\packagingCode\obj\Debug\netcoreapp3.1\packagingCode.csproj.AssemblyReference.cache
+C:\Users\ysmgu\source\repos\packagingCode\obj\Debug\netcoreapp3.1\packagingCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ysmgu\source\repos\packagingCode\obj\Debug\netcoreapp3.1\packagingCode.AssemblyInfoInputs.cache
+C:\Users\ysmgu\source\repos\packagingCode\obj\Debug\netcoreapp3.1\packagingCode.AssemblyInfo.cs
+C:\Users\ysmgu\source\repos\packagingCode\obj\Debug\netcoreapp3.1\packagingCode.csproj.CoreCompileInputs.cache
+C:\Users\ysmgu\source\repos\packagingCode\bin\Debug\netcoreapp3.1\packagingCode.exe
+C:\Users\ysmgu\source\repos\packagingCode\bin\Debug\netcoreapp3.1\packagingCode.deps.json
+C:\Users\ysmgu\source\repos\packagingCode\bin\Debug\netcoreapp3.1\packagingCode.runtimeconfig.json
+C:\Users\ysmgu\source\repos\packagingCode\bin\Debug\netcoreapp3.1\packagingCode.runtimeconfig.dev.json
+C:\Users\ysmgu\source\repos\packagingCode\bin\Debug\netcoreapp3.1\packagingCode.dll
+C:\Users\ysmgu\source\repos\packagingCode\bin\Debug\netcoreapp3.1\packagingCode.pdb
+C:\Users\ysmgu\source\repos\packagingCode\obj\Debug\netcoreapp3.1\packagingCode.dll
+C:\Users\ysmgu\source\repos\packagingCode\obj\Debug\netcoreapp3.1\packagingCode.pdb
+C:\Users\ysmgu\source\repos\packagingCode\obj\Debug\netcoreapp3.1\packagingCode.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+C:\Users\ysmgu\source\repos\jsonProject\bin\Debug\netcoreapp3.1\jsonProject.exe
+C:\Users\ysmgu\source\repos\jsonProject\bin\Debug\netcoreapp3.1\jsonProject.deps.json
+C:\Users\ysmgu\source\repos\jsonProject\bin\Debug\netcoreapp3.1\jsonProject.runtimeconfig.json
+C:\Users\ysmgu\source\repos\jsonProject\bin\Debug\netcoreapp3.1\jsonProject.runtimeconfig.dev.json
+C:\Users\ysmgu\source\repos\jsonProject\bin\Debug\netcoreapp3.1\jsonProject.dll
+C:\Users\ysmgu\source\repos\jsonProject\bin\Debug\netcoreapp3.1\jsonProject.pdb
+C:\Users\ysmgu\source\repos\jsonProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ysmgu\source\repos\jsonProject\obj\Debug\netcoreapp3.1\jsonProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ysmgu\source\repos\jsonProject\obj\Debug\netcoreapp3.1\jsonProject.AssemblyInfoInputs.cache
+C:\Users\ysmgu\source\repos\jsonProject\obj\Debug\netcoreapp3.1\jsonProject.AssemblyInfo.cs
+C:\Users\ysmgu\source\repos\jsonProject\obj\Debug\netcoreapp3.1\jsonProject.csproj.CoreCompileInputs.cache
+C:\Users\ysmgu\source\repos\jsonProject\obj\Debug\netcoreapp3.1\jsonProject.csproj.CopyComplete
+C:\Users\ysmgu\source\repos\jsonProject\obj\Debug\netcoreapp3.1\jsonProject.dll
+C:\Users\ysmgu\source\repos\jsonProject\obj\Debug\netcoreapp3.1\jsonProject.pdb
+C:\Users\ysmgu\source\repos\jsonProject\obj\Debug\netcoreapp3.1\jsonProject.genruntimeconfig.cache
+C:\Users\ysmgu\source\repos\jsonProject\bin\Debug\netcoreapp3.1\response.json
+C:\Users\ysmgu\source\repos\jsonProject\obj\Debug\netcoreapp3.1\jsonProject.csproj.AssemblyReference.cache
